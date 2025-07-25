@@ -19,7 +19,7 @@ Dies ist das Frontend für das Bundesländer-Projekt. Es zeigt alle deutschen Bu
 
 1. Repository klonen  
     ```bash
-   `git clone <https://github.com/SunnyDevZH/Bundeslaender>`  
+   `git clone https://github.com/SunnyDevZH/Bundeslaender`  
    ```
    ```bash
    `cd Bundeslaender`
