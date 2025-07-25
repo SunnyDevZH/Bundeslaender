@@ -18,25 +18,15 @@ Dies ist das Frontend für das Bundesländer-Projekt. Es zeigt alle deutschen Bu
 ## ⚙️ Installation
 
 1. Repository klonen  
-   `git clone <REPO-URL>`  
+    ```bash
+   `git clone <https://github.com/SunnyDevZH/Bundeslaender>`  
+   ```
+   ```bash
    `cd Bundeslaender`
+   ```
+   
 2. Starten  
+    ```bash
    Öffne die Datei `index.html` direkt im Browser.
+   ```
 
-## About
-
-Keine Beschreibung, Website oder Themen vorhanden.
-
-## Ressourcen
-
-- [Readme](README.md)
-
-## Sprachen
-
-- JavaScript
-- HTML
-- CSS
-
----
-
-© 2025# Bundeslaender
